@@ -1,4 +1,4 @@
-# Python-introduction:
+# Python-introduction(正在更新中...):
 1️⃣Python--小学生入门学习<br>
 2️⃣让小学生都能学会Python<br>
 3️⃣此教程面向小学生和初中生.编程爱好者.
